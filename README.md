@@ -5,12 +5,12 @@ This is my bot and it’s completely open-source for you to contribute and you c
 Once you have contributed, please DM me on my Social Medias.
 
 The bot uses Node JS v12.14.0.
-The service is used for Discord. My token is not in the text files!
+The service is used for Discord. <b>My token is not in the text files! Don't ask for my token either!!!!</b>
 
 Download Node JS: https://nodejs.org/
-Go to node.js command prompt and then type your file location to where you saved your bots code on your folder. Type that full path, ex. Cd C:\nodejs
-Then type in node bot.js then hit ENTER.
-The bot will go online.
+<li>Go to node.js command prompt and then type your file location to where you saved your bots code on your folder. Type that full path, ex. Cd C:\nodejs</li>
+<li>Then type in node bot.js then hit ENTER.</li>
+<li>The bot will go online.</li>
 
 Right click on the bot’s js file and then click edit.
 
