@@ -1,4 +1,4 @@
-<b>Mr B.F.F Bot</b>
+<h1 style="font-size:300%;"><b>Mr B.F.F Bot</b></h1>
 
 This is my bot and it’s completely open-source for you to contribute and you can use it to make your own too! Simply just edit the bot.js file with a vaild txt js editor to get started and change commands! I am looking forward to upgrade to Python at some point but node js is fine.
 
