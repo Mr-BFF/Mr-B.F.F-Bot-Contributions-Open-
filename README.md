@@ -15,12 +15,11 @@ The bot will go online.
 Right click on the bot’s js file and then click edit.
 
 This is what I want on the bot’s remaining features.
-
-English Command. Type command prefix - english, it deletes that user’s message, not in English then gives bot command - @mention - Please speak English in the chat, user!
-A cool queue list, types in, prefix - queue then added to queue! If no queue is found, it will message queue not set up.
-Invite Bot - This feature is added. Prefix - Invitebot then the bot gives an invite, authorize link to share and add to other parties, servers.
-Light moderation commands:
+<li>English Command. Type command prefix - english, it deletes that user’s message, not in English then gives bot command - @mention - Please speak English in the chat, user!</li>
+<li>A cool queue list, types in, prefix - queue then added to queue! If no queue is found, it will message queue not set up.</li>
+<li>Invite Bot - This feature is added. Prefix - Invitebot then the bot gives an invite, authorize link to share and add to other parties, servers.</li>
+<li>Light moderation commands:</li>
 1.Kicks. Prefix - kick user
 2.Bans. Prefix - ban user
-3.Message Filtering, like inappropriate links, sensitive messages.
-Ability to add roles. Prefix - rolename(get) then the bot messages then gives role to user.
+3.Message Filtering, like inappropriate links, sensitive messages.</li>
+<li>Ability to add roles. Prefix - rolename(get) then the bot messages then gives role to user.</li>
