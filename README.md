@@ -8,6 +8,7 @@ The bot uses Node JS v12.14.0.
 The service is used for Discord. <b>My token is not in the text files! Don't ask for my token either!!!!</b>
 
 Download Node JS: https://nodejs.org/
+
 Also visit this!: https://github.com/discordjs/discord.js
 
 <li>Go to node.js command prompt and then type your file location to where you saved your bots code on your folder. Type that full path, ex. Cd C:\nodejs</li>
